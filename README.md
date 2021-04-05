@@ -1,6 +1,6 @@
 # email-validation
 
-database name: village 88
+database name: village88
 
 
 db table name: users
