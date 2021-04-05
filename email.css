@@ -1,0 +1,78 @@
+body{
+	font-family: arial;
+}
+form.index{
+	text-align: center;
+	padding: 50px;
+}
+form.delete{
+	margin: 20px;
+}
+span.inline-b{
+	display: inline-block;
+	width: 300px;
+}
+span.block{
+	display: block;
+}
+h3{
+	text-align: center;
+	border: 1px solid red;
+	background-color: #DEDEDE;
+	width: 300px;
+	display: block;
+	margin: 10px auto;
+	padding: 10px 20px; 
+	color: red;
+}
+input{
+	display: block;
+	margin: 10px auto;
+}
+input.text{
+	padding: 10px 20px;
+	text-align: center;	
+}
+input.submit{
+	padding: 5px 20px;
+	text-transform: uppercase;
+	background-color: green;
+	border: none;
+	color: white;
+}
+input.delete{
+	display: inline-block;
+	margin: 0;
+	border: none;
+	color: white;
+	background-color: red;
+	padding: 5px 20px;
+	vertical-align: bottom;
+}
+div{
+	background-color: #F5F5F5;
+	padding: 30px;
+	margin: 10px 0px;
+}
+h4.message{
+	text-align: center;
+	width: 500px;
+	background-color: green;
+	color: white;
+	padding: 20px;
+	margin: auto;
+	font-weight: normal;
+}
+h4.title{
+	background-color: #DEDEDE;
+	padding: 20px;
+	margin: 0;
+	display: block;
+}
+a{
+	text-decoration: none;
+	color: cyan;
+	padding: 10px 30px;
+	background-color: gray;
+	border: 1px solid cyan;
+}
