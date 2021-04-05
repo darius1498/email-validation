@@ -1,6 +1,8 @@
 # email-validation
 
 database name: village 88
+
+
 db table name: users
 
 columns:
